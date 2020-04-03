@@ -9,3 +9,5 @@ new row for fist commit to 'feature' branch
 new row for second commit to 'feature' branch
 
 new change done #1
+
+commit #2
